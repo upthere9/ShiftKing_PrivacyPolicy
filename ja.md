@@ -141,7 +141,7 @@ ShiftKingでは会員登録およびログインは不要です。
 
 - 氏名：Hye Yoon Cho
 - 役職：CEO
-- メール：9andu.inc@gmail.com
+- メール：nineandu@gmail.com
 - 電話：+82-10-2177-9551
 
 ---

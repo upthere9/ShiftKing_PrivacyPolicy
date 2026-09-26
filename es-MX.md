@@ -143,7 +143,7 @@ Los usuarios pueden solicitar:
 
 - Nombre: Hye Yoon Cho
 - Cargo: CEO
-- Correo electrónico: 9andu.inc@gmail.com
+- Correo electrónico: nineandu@gmail.com
 - Teléfono: +82-10-2177-9551
 
 ---

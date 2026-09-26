@@ -157,7 +157,7 @@ Permintaan dapat diajukan kepada Petugas Privasi di bawah ini.
 
 - Nama: Hye Yoon Cho
 - Jabatan: CEO
-- Email: 9andu.inc@gmail.com
+- Email: nineandu@gmail.com
 - Telepon: +82-10-2177-9551
 
 Perusahaan akan berupaya memberikan tanggapan secepat mungkin atas pertanyaan terkait privasi.

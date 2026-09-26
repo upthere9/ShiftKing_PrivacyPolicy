@@ -139,7 +139,7 @@ Kullanıcılar aşağıdakileri talep edebilir:
 
 - Ad: Hye Yoon Cho
 - Görev: CEO
-- E-posta: 9andu.inc@gmail.com
+- E-posta: nineandu@gmail.com
 - Telefon: +82-10-2177-9551
 
 ---

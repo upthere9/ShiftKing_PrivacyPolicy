@@ -159,7 +159,7 @@ Các yêu cầu có thể được gửi đến người phụ trách quyền ri
 
 - Tên: Hye Yoon Cho
 - Chức vụ: CEO
-- Email: 9andu.inc@gmail.com
+- Email: nineandu@gmail.com
 - Điện thoại: +82-10-2177-9551
 
 Công ty sẽ nỗ lực hợp lý để phản hồi nhanh chóng các yêu cầu liên quan đến quyền riêng tư.

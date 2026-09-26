@@ -159,7 +159,7 @@ Les demandes peuvent être adressées au responsable de la confidentialité indi
 
 - Nom : Hye Yoon Cho
 - Fonction : CEO
-- E-mail : 9andu.inc@gmail.com
+- E-mail : nineandu@gmail.com
 - Téléphone : +82-10-2177-9551
 
 La Société fera des efforts raisonnables pour répondre rapidement aux demandes relatives à la confidentialité.

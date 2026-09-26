@@ -147,7 +147,7 @@ Użytkownik może żądać:
 
 - Imię i nazwisko: Hye Yoon Cho
 - Stanowisko: CEO
-- E-mail: 9andu.inc@gmail.com
+- E-mail: nineandu@gmail.com
 - Telefon: +82-10-2177-9551
 
 ---
