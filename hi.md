@@ -135,7 +135,7 @@ ShiftKing में पंजीकरण या लॉगिन की आव�
 
 **गोपनीयता अधिकारी**
 
-- नाम: Hye Yoon Cho
+- नाम: Haeyoon Cho
 - पद: CEO
 - ईमेल: nineandu@gmail.com
 - फ़ोन: +82-10-2177-9551

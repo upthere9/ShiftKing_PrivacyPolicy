@@ -157,7 +157,7 @@ As solicitações podem ser encaminhadas ao responsável pela privacidade indica
 
 **Responsável pela privacidade**
 
-- Nome: Hye Yoon Cho
+- Nome: Haeyoon Cho
 - Cargo: CEO
 - E-mail: nineandu@gmail.com
 - Telefone: +82-10-2177-9551

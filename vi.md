@@ -157,7 +157,7 @@ Các yêu cầu có thể được gửi đến người phụ trách quyền ri
 
 **Người phụ trách quyền riêng tư**
 
-- Tên: Hye Yoon Cho
+- Tên: Haeyoon Cho
 - Chức vụ: CEO
 - Email: nineandu@gmail.com
 - Điện thoại: +82-10-2177-9551

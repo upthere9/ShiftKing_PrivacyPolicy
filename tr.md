@@ -137,7 +137,7 @@ Kullanıcılar aşağıdakileri talep edebilir:
 
 **Gizlilik Sorumlusu**
 
-- Ad: Hye Yoon Cho
+- Ad: Haeyoon Cho
 - Görev: CEO
 - E-posta: nineandu@gmail.com
 - Telefon: +82-10-2177-9551

@@ -157,7 +157,7 @@ Les demandes peuvent être adressées au responsable de la confidentialité indi
 
 **Responsable de la confidentialité**
 
-- Nom : Hye Yoon Cho
+- Nom : Haeyoon Cho
 - Fonction : CEO
 - E-mail : nineandu@gmail.com
 - Téléphone : +82-10-2177-9551

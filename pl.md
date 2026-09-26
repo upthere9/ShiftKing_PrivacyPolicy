@@ -145,7 +145,7 @@ Użytkownik może żądać:
 
 **Inspektor ochrony prywatności**
 
-- Imię i nazwisko: Hye Yoon Cho
+- Imię i nazwisko: Haeyoon Cho
 - Stanowisko: CEO
 - E-mail: nineandu@gmail.com
 - Telefon: +82-10-2177-9551

@@ -155,7 +155,7 @@ Permintaan dapat diajukan kepada Petugas Privasi di bawah ini.
 
 **Petugas Privasi**
 
-- Nama: Hye Yoon Cho
+- Nama: Haeyoon Cho
 - Jabatan: CEO
 - Email: nineandu@gmail.com
 - Telepon: +82-10-2177-9551

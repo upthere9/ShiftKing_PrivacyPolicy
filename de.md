@@ -157,7 +157,7 @@ Anfragen können an den unten genannten Datenschutzbeauftragten gerichtet werden
 
 **Datenschutzbeauftragter**
 
-- Name: Hye Yoon Cho
+- Name: Haeyoon Cho
 - Position: CEO
 - E-Mail: nineandu@gmail.com
 - Telefon: +82-10-2177-9551

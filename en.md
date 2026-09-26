@@ -157,7 +157,7 @@ Requests may be directed to the Privacy Officer listed below.
 
 **Privacy Officer**
 
-- Name: Hye Yoon Cho
+- Name: Haeyoon Cho
 - Position: CEO
 - Email: nineandu@gmail.com
 - Phone: +82-10-2177-9551

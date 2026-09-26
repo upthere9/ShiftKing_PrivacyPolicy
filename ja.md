@@ -139,7 +139,7 @@ ShiftKingでは会員登録およびログインは不要です。
 
 **個人情報保護責任者**
 
-- 氏名：Hye Yoon Cho
+- 氏名：Haeyoon Cho
 - 役職：CEO
 - メール：nineandu@gmail.com
 - 電話：+82-10-2177-9551
